@@ -1,0 +1,6 @@
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreApplication\bin\Debug\StoreApplication.exe.config
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreApplication\bin\Debug\StoreApplication.exe
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreApplication\bin\Debug\StoreApplication.pdb
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreApplication\obj\Debug\StoreApplication.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreApplication\obj\Debug\StoreApplication.exe
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreApplication\obj\Debug\StoreApplication.pdb

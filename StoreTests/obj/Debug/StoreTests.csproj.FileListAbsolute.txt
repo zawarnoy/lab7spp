@@ -1,0 +1,9 @@
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\bin\Debug\StoreTests.dll
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\bin\Debug\StoreTests.pdb
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\bin\Debug\StoreApplication.exe
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\bin\Debug\StoreApplication.pdb
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\obj\Debug\StoreTests.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\obj\Debug\StoreTests.dll
+C:\Users\Влад\Desktop\labs\spp\lab7\StoreApplication\StoreTests\obj\Debug\StoreTests.pdb
